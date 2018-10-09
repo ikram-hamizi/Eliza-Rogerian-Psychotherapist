@@ -1,0 +1,14 @@
+love
+like
+hate
+dislike
+despise
+loathe
+admire
+adore
+enjoy
+detest
+prefer
+need
+fear
+wish

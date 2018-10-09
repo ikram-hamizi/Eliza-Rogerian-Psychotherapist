@@ -1,0 +1,28 @@
+Anorexia
+Stress
+Anxiety
+Bipolar
+Bulimia
+Hallucinating
+Hallucination
+Depression
+OCD
+ADD
+ADHD
+Panic
+Phobic
+Phobia
+Paranoia
+Schizophrenia
+Social anxiety
+Substance
+
+#When did you start to feel this way?
+
+INPUT:
+1#yes/no (I see>Oh, I see\n>Tell me more about it\n>Really? How does that make you feel?>)
+
+2#Questions (if 'you' exists) (-> feeling: My opinion does not matter, I think we should talk about you.\n>I am more conserned about what you /verb/\n>We could talk about me another time, but I would like us to focus on you this time\n>)
+
+3#Questions
+

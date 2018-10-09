@@ -1,0 +1,11 @@
+believe:believed
+perceive:perceived
+think:thought
+say:said
+respond:responded
+imagine:imagined
+forget:forgot
+assume:assumed
+remember:remembered
+realise:realised
+know:known

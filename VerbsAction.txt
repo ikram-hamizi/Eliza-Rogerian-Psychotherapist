@@ -1,0 +1,7 @@
+go:went
+eat:ate
+drink:drank
+visit:visited
+smoke:smoked
+walk:walked
+skip:skipped
